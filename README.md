@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Karen
 - 👀 I’m interested in building cool new things
-- 🌱 I’m currently learning full stack 
+- 🌱 I’m currently a student at the University of Washingto Full Stack Bootcamp
 - 💞️ I’m looking to collaborate on anything and everything
 - 📫 How to reach me? Just send me a message!
 
